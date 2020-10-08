@@ -1,0 +1,15 @@
+MANIFEST
+META.json
+META.yml
+Makefile.PL
+Build.PL
+README
+Changes
+LICENSE
+examples/simple.pl
+examples/tie_existing_hash.pl
+lib/Tie/ListKeyedHash.pm
+lib/Tie/ListKeyedHash.pod
+t/01_Tie_ListKeyedHash.t
+t/98_pod_coverage.t
+t/99_pod.t
